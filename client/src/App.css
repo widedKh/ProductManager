@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  background-color: rgb(238, 238, 238);
+  padding:15px 10px;
+  margin: 20px auto;
+  width: 400px;
+}
+
+.form input{
+  height: 30px;
+  margin-left: 80px;
+}
+
+.form label{
+  font-size: 20px;
+}
+
+
+
+
+
+
+.delBtn, .btn, .buttons{
+  background-color: #0945a5;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.delBtn{
+  background-color: rgb(167, 28, 28);
+}
+
+.header {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header div {
+  display: flex;
+  gap: 10px;
+}
+
+.header h1 {
+margin-left: 450px;
+  float: center;
+}
+.home {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10px auto; 
+  width: 400px;
+}
+
